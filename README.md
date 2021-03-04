@@ -2,7 +2,6 @@
 
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-- A passionate data analyst,enthusiastic in data science domain.
 - 🔭 I’m currently working on Online_Product_Review_Analysis and Sales
 - 🌱 I’m currently learning .Computer_Vision using OpenCV and Web_Scraping
 - 💻 I'm looking for an **Opportunities** in **Data Science & Analytics**.
@@ -14,7 +13,6 @@ def Nitin():
   skills_with_proficiency = {'Python': 'Advance','R': 'Advance','SQL': 'Advance', 'Tableau': 'Intermidiate', 'Computer Vision': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'Tensorflow']
   cloud_architecture = ['AWS', 'heroku']
-  # kaggle_competitions = 1
   active_blogger = True
   return ∞
 ```
