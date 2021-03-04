@@ -2,7 +2,7 @@
 
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-- 🔭 I’m currently working on Online_Product_Review_Analysis and Sales
+- 🔭 I’m currently working on Online_Product_Review_Analysis and future sales data prediction.
 - 🌱 I’m currently learning .Computer_Vision using OpenCV and Web_Scraping
 - 💻 I'm looking for an **Opportunities** in **Data Science & Analytics**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
