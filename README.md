@@ -1,7 +1,5 @@
 ### Hi there,I'm Nitin! 
 ### A passionate data analyst and enthusiastic in data science domain.
-<!--
-**NitinNandeshwar/NitinNandeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
