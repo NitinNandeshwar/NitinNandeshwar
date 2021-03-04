@@ -1,5 +1,4 @@
-### Hi there,I'm Nitin! 
-### A passionate data analyst and enthusiastic in data science domain.
+### Hi there,I'm Nitin!.A passionate data analyst,enthusiastic in data science domain.
 
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
