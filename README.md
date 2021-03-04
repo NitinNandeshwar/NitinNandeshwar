@@ -1,9 +1,8 @@
-### Hi there,I'm Nitin!.A passionate data analyst,enthusiastic in data science domain.
+### Hi there,I'm Nitin!
 
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-Here are some ideas to get you started:
-
+- A passionate data analyst,enthusiastic in data science domain.
 - 🔭 I’m currently working on Online_Product_Review_Analysis and Sales
 - 🌱 I’m currently learning .Computer_Vision using OpenCV and Web_Scraping
 - 💻 I'm looking for an **Opportunities** in **Data Science & Analytics**.
