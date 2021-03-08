@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning .Computer_Vision using OpenCV and Web_Scraping
 - 💻 I'm looking for an **Opportunities** in **Data Science & Analytics**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Industrial IoT (Industry 4.0)** domains.
-- 🎯 Goal (2021): **Contribute** openly to **Data Science and Industrial IoT (Industry 4.0 community**.
+- 🎯 Goal (2021): **Contribute** openly to **Data Science and Industrial IoT (Industry 4.0) community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def Nitin():
