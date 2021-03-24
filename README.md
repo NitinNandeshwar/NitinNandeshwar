@@ -10,7 +10,8 @@
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def Nitin():
-  skills_with_proficiency = {'Python': 'Advance','R': 'Advance','SQL': 'Advance', 'Tableau': 'Intermidiate','Excel': 'Intermidiate' ,'Computer Vision': 'Beginner'}
+  skills_with_proficiency = {'Python': 'Advance','R': 'Advance','SQL': 'Advance',
+                            'Tableau': 'Intermidiate','Excel': 'Intermidiate' ,'Computer Vision': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'Tensorflow']
   cloud_architecture = ['AWS', 'heroku']
   active_blogger = True
