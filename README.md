@@ -13,7 +13,7 @@ def Nitin():
   skills_with_proficiency = {'Python': 'Advance','R': 'Advance','SQL': 'Advance',
                             'Tableau': 'Intermidiate','Excel': 'Intermidiate' ,'Computer Vision': 'Intermidiate'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'Tensorflow']
-  cloud_architecture = ['AWS', 'heroku']
+  cloud_architecture = ['AWS', 'Google']
   active_blogger = True
   return ∞
 ```
