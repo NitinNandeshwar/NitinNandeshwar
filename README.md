@@ -19,7 +19,6 @@ def Nitin():
 ```
 
 ## Connect me on:
-- LinkedIn: https://www.linkedin.com/in/nitin-nandeshwar-04bb6033/
 - Website: https://nitinnandeshwar.ml/
 
 
