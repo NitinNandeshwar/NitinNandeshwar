@@ -1,21 +1,18 @@
-### Hi there,I'm Nitin!
+# Hi there, I'm Nitin! 👋
 
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+- 🤖 Sr. Software Engineer (Data Scientist) at Analog Devices, with 6+ years in **Machine Learning, AI, Robotics & MLOps**.  
+- 🚀 Built AI-powered systems: LLM Chatbots (RAG), Human-Robot Safety Systems, Gesture Detection, and Real-time Edge Inference (YOLO, NVIDIA Jetson).  
+- 🛠️ Skilled in **Python, C++, PyTorch, TensorFlow, LangChain, RAG, Docker, AWS, GCP, ROS**.  
+- 📊 Passionate about **LLMs, Generative AI, Computer Vision, and Industrial Automation**.  
+- 🎯 Academic background: **M.Sc. in Data Science (Ireland)** & **M.Tech in Mechatronics (NIT Karnataka, India)**.  
+- ✨ Former **Assistant Professor** in Mechatronics Engineering.  
 
-- 🔭 I’m currently working on Collaborative Robot Operational Safeguard System and Scalable Ethernet Switch.
-<!-- - 🌱 I’m currently learning **Data Science for Business** and **Market Analytics** -->
-<!-- - 💻 I'm looking for an **Opportunities** in **Data Analytics**. -->
-<!-- - 🤝🏻 I'm open for collaborations in **Data Science** and **Business Data Analyst** domains. -->
-- 🎯 Goal (2022): **Contribute** openly to **Robotics and Indsutrial Automation community**.
-- 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def Nitin():
-  skills_with_proficiency = {'Python': 'Advance','R': 'Advance','SQL': 'Advance', 'Robotics' : 'Advance'
-                            'Tableau': 'Intermidiate','Excel': 'Intermidiate' ,'Computer Vision': 'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'Tensorflow']
-  cloud_architecture = ['AWS', 'Google']
-  active_blogger = True
-  return ∞
+    skills = ['Machine Learning', 'Computer Vision', 'Robotics', 'LLM', 'MLOps']
+    tools = ['PyTorch', 'TensorFlow', 'LangChain', 'RAG', 'Docker', 'Kubernetes', 'AWS', 'GCP']
+    passion = 'Building impactful AI + Robotics solutions'
+    return "🚀 Keep Innovating!"
 ```
 
 ## Connect me on:
